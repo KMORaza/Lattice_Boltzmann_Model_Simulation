@@ -27,6 +27,8 @@
   * Open: Copies distributions from neighboring cells, allowing free flow through boundaries.
 * The simulation initializes with a uniform density (1.0) and zero velocity, except for specific boundary conditions (e.g., 0.1 x-velocity at x=0 for Velocity/Inlet/Outlet). An obstacle is placed to demonstrate flow interaction, visible in the visualization.
 
+---
+
 | ![](https://github.com/KMORaza/Lattice_Boltzmann_Model_Simulation/blob/main/src/screenshots/screen01.png) | ![](https://github.com/KMORaza/Lattice_Boltzmann_Model_Simulation/blob/main/src/screenshots/screen02.png) |
 |-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | ![](https://github.com/KMORaza/Lattice_Boltzmann_Model_Simulation/blob/main/src/screenshots/screen03.png) | ![](https://github.com/KMORaza/Lattice_Boltzmann_Model_Simulation/blob/main/src/screenshots/screen04.png) |
