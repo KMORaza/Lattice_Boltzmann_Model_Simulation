@@ -29,7 +29,7 @@
 
 ---
 
-| ![](https://github.com/KMORaza/Lattice_Boltzmann_Model_Simulation/blob/main/src/screenshots/screen01.png) | ![](https://github.com/KMORaza/Lattice_Boltzmann_Model_Simulation/blob/main/src/screenshots/screen02.png) |
+| ![](https://github.com/KMORaza/Lattice_Boltzmann_Model_Simulation/blob/main/src/screenshots/screen02.png) | ![](https://github.com/KMORaza/Lattice_Boltzmann_Model_Simulation/blob/main/src/screenshots/screen02.png) |
 |-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | ![](https://github.com/KMORaza/Lattice_Boltzmann_Model_Simulation/blob/main/src/screenshots/screen03.png) | ![](https://github.com/KMORaza/Lattice_Boltzmann_Model_Simulation/blob/main/src/screenshots/screen04.png) |
 | ![](https://github.com/KMORaza/Lattice_Boltzmann_Model_Simulation/blob/main/src/screenshots/screen05.png) | ![](https://github.com/KMORaza/Lattice_Boltzmann_Model_Simulation/blob/main/src/screenshots/screen06.png) |
